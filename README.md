@@ -46,14 +46,14 @@ _This application cannot be replicated to run locally without proper setup. The 
 4. (Admin) Browse Opportunity/Blog Page
 
 <div align="center"><kbd>
-<img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/0597d015-61f3-44ec-8c3d-c297278780aa"/>
+<img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/5cb78100-ba26-4909-92ee-bba1301f03f0"/>
+<img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/8afba2c0-5e16-404f-856b-eee4d77bc881"/>
 </kbd></div>
 
 5. (Admin) Add/Edit/Delete Page
 
 <div align="center"><kbd>
-<img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/5cb78100-ba26-4909-92ee-bba1301f03f0"/>
-<img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/8afba2c0-5e16-404f-856b-eee4d77bc881"/>
+<img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/61220787-4878-48ec-9db4-24978574611d"/>
 </kbd></div>
 
 <br/>
@@ -69,8 +69,8 @@ _This application cannot be replicated to run locally without proper setup. The 
 7. Login/Signup Page
 
 <div align="center"><kbd>
-<img width="500" src="https://github.com/Georgey764/content-management-system/assets/127057827/e3fe8c8c-e719-472b-b8f6-ba358a5a2a85"/>
-<img width="500" src="https://github.com/Georgey764/content-management-system/assets/127057827/c5ab1e89-3107-4b68-9570-d6d13c3f8b49"/>
+<img width="450" src="https://github.com/Georgey764/content-management-system/assets/127057827/e3fe8c8c-e719-472b-b8f6-ba358a5a2a85"/>
+<img width="450" src="https://github.com/Georgey764/content-management-system/assets/127057827/c5ab1e89-3107-4b68-9570-d6d13c3f8b49"/>
 </kbd></div>
 
 <br/>
