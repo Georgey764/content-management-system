@@ -17,5 +17,5 @@
 
 ## <p id="demo">Demo Account for Admin Access</p>
 
-    gregorygregory2021@gmail.com
-    password!123
+    **email:** gregorygregory2021@gmail.com
+    **password:** password!123
