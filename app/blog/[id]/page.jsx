@@ -3,8 +3,10 @@ import Mdx from "../../ui/Components/Mdx";
 import { createClient } from "@/utils/supabase/client";
 import { CalendarDays, MapPin } from "lucide-react";
 import Image from "next/image";
+import { unstable_noStore } from "next/cache";
 
 export default async function BlogContentPage({ params }) {
+  unstable_noStore();
   const supabase = createClient();
   const { data, error } = await supabase
     .from("blog")

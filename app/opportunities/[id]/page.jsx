@@ -2,8 +2,10 @@ import { createClient } from "@/utils/supabase/client";
 import { CalendarDays, MapPin, Server } from "lucide-react";
 import Mdx from "../../ui/Components/Mdx";
 import ErrorPage from "../../ui/Components/ErrorPage";
+import { unstable_noStore } from "next/cache";
 
 export default async function id({ params, searchParams }) {
+  unstable_noStore();
   const supabase = createClient();
   const { data, error } = await supabase
     .from("opportunities")

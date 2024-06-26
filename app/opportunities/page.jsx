@@ -1,9 +1,8 @@
 import OpportunitySection from "./(Helpers)/OpportunitySection";
 
 export const metadata = {
-  title: "Browse Opportunities",
-  description:
-    "Search for different scholarships, internships, workshops, grants, fellowships, training, etc in and around MENA region.",
+  title: "Opportunities",
+  description: "Here you will find different opportunities.",
 };
 
 export default function Opportunities({ searchParams }) {

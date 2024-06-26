@@ -14,47 +14,46 @@ import Modals from "./ui/Components/Modals";
 import BlogSection from "./(Helper)/BlogSection";
 
 export const metadata = {
-  title: "Zaad",
-  description:
-    "The website for discovering opportunities for youths in MENA region.",
+  title: "CMS",
+  description: "Content management system for cars and blogs.",
 };
 
 export default async function Home({ searchParams }) {
   const findOpportunities = [
     {
       id: 1,
-      name: "Scholarships",
-      description: "Paid opportunities for studies.",
+      name: "One Topic",
+      description: "Topic description goes here.",
       logo: <GraduationCap />,
     },
     {
       id: 2,
-      name: "Grants",
-      description: "Funds for your projects and ideas.",
+      name: "Two Topic",
+      description: "Topic description goes here.",
       logo: <DollarSign />,
     },
     {
       id: 3,
-      name: "Internship",
-      description: "Work experience to get your foot in the door.",
+      name: "Three Topic",
+      description: "Topic description goes here.",
       logo: <BriefcaseBusiness />,
     },
     {
       id: 4,
-      name: "Traineeships",
-      description: "Get training for your job",
+      name: "Four Topic",
+      description: "Topic description goes here.",
       logo: <HardHat />,
     },
     {
       id: 5,
-      name: "Volunteer",
-      description: "Be the help that the world needs",
+      name: "Five Topic",
+      description: "Topic description goes here.",
       logo: <HelpingHand />,
     },
     {
       id: 6,
-      name: "Fellowship",
-      description: "To help you in your studies",
+      name: "Six Topic",
+      description: "Topic description goes here.",
       logo: <Star />,
     },
   ];
@@ -66,16 +65,16 @@ export default async function Home({ searchParams }) {
         <div className="px-4 lg:mx-auto flex flex-col lg:flex-row justify-center items-center max-w-screen-xl lg:px-4 py-24 lg:flex lg:h-[90vh] lg:items-center lg:justify-around lg:text-left text-center">
           <div className="lg:w-3/6">
             <h1 className="text-3xl text-black font-extrabold sm:text-5xl">
-              Discover Opportunities
+              Your Company
               <strong className="font-extrabold text-primary sm:block">
                 {" "}
-                Empower Your Future{" "}
+                Slogan Goes Here{" "}
               </strong>
             </h1>
 
             <p className="mt-4 sm:text-base/relaxed font-extralight text-gray-500 text-sm">
-              Zaad is a non-profit organization based in Tunisia that helps
-              youths of the MENA region discover opportunities
+              Describe what your company does in here. Or you can think of
+              something creative that describes your company!
             </p>
 
             <div className="mt-8 flex flex-wrap justify-left gap-4">
@@ -89,7 +88,7 @@ export default async function Home({ searchParams }) {
           </div>
           <div className="hidden lg:block">
             <Image
-              src="/images/logo-no-bg.png"
+              src="/images/logo.svg"
               width={350}
               height={350}
               alt="Picture of the author"
@@ -101,21 +100,19 @@ export default async function Home({ searchParams }) {
         <div className="max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16">
           <div className="grid grid-cols-1 gap-y-8 lg:grid-cols-2 lg:items-center lg:gap-x-16">
             <div className="mx-auto max-w-lg text-center lg:mx-0 ltr:lg:text-left rtl:lg:text-right">
-              <h2 className="text-3xl font-bold sm:text-4xl">
-                Find different opportunities
-              </h2>
+              <h2 className="text-3xl font-bold sm:text-4xl">Topic Number 1</h2>
 
               <p className="mt-4 text-gray-600">
-                We have curated list of scholarships, workshops, internships,
-                grants, traineeships and many more available to youths of MENA
-                region. Check them out in our opportunities page.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+                sodales suscipit consequat. Phasellus scelerisque malesuada
+                nisi. Suspendisse tempus tellus arcu.
               </p>
 
               <a
                 href="/opportunities"
                 className="mt-8 inline-block rounded bg-primary px-12 py-3 text-sm font-medium text-white transition hover:bg-primary/90 focus:outline-none focus:ring focus:ring-yellow-400"
               >
-                Find Opportunities
+                Action Button
               </a>
             </div>
 

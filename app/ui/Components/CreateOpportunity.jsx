@@ -97,6 +97,7 @@ export default function CreateOpportunity() {
           <div className="space-y-1">
             <Label htmlFor="create_image">Image Link</Label>
             <Input
+              type="url"
               id="create_image"
               placeholder="Enter Image Link"
               name="image"

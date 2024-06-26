@@ -17,11 +17,10 @@ export default async function BlogSection() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0">
           <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-            From the blog
+            Recently From the blog
           </h2>
           <p className="mt-2 text-lg leading-8 text-gray-600">
-            Learn different techniques on improving your odds of getting
-            accepted for an opportunity.
+            Your latest three blog posts will be displayed here.
           </p>
         </div>
         <div className="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-4 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none sm:grid-cols-2 lg:grid-cols-3">

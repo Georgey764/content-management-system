@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/images/logo-no-outbg.png" type="image/png" />
+        <link rel="icon" href="/images/logo.svg" type="image/png" />
       </head>
       <body>
         <AuthProvider>
@@ -121,7 +121,8 @@ export default function RootLayout({ children }) {
               </li>
             </ul>
             <p className="text-center mt-8 text-gray-400 font-extralight">
-              All Rights Reserved. zaad.com © 2024
+              All Rights Reserved. George Samuel Khawas. Github:@Georgey764 ©
+              2024
             </p>
           </div>
         </footer>

@@ -3,9 +3,10 @@ import Image from "next/image";
 const people = [
   {
     id: 1,
-    name: "Mbarka Zekri",
+    name: "John Doe",
     role: "Founder / CEO",
-    imageUrl: "/images/Mbarka.jpg",
+    imageUrl:
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
   },
   {
     id: 2,
@@ -37,8 +38,8 @@ const people = [
 ];
 
 export const metadata = {
-  title: "About us - Zaad",
-  description: "This page contains information about our organization.",
+  title: "About us",
+  description: "This page contains information about your organization.",
 };
 
 export default function Example() {
@@ -50,8 +51,7 @@ export default function Example() {
             Meet our team
           </h2>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            We are a group of dedicated team members here to develop the MENA
-            region.
+            Write a short description about all of your team.
           </p>
         </div>
         <ul

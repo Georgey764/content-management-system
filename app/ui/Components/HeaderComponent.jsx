@@ -65,12 +65,7 @@ export default function HeaderComponent() {
         transition: "background 0.1s, border 0.1s",
       }}
     >
-      <Image
-        src="/images/logo-no-bg.png"
-        width={60}
-        height={60}
-        alt=" Zaad's Logo"
-      />
+      <Image src="/images/logo.svg" width={50} height={50} alt="Logo" />
 
       <DropdownMenu>
         <DropdownMenuTrigger asChild>
