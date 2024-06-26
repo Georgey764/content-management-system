@@ -50,6 +50,8 @@ _This application cannot be replicated to run locally without proper setup. The 
 <img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/8afba2c0-5e16-404f-856b-eee4d77bc881"/>
 </kbd></div>
 
+<br/>
+
 5. (Admin) Add/Edit/Delete Page
 
 <div align="center"><kbd>
