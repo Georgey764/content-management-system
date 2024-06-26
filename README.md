@@ -19,8 +19,9 @@ _This application cannot be replicated to run locally without proper setup. The 
 
 1. Homepage  
   
-   <kbd>![screencapture-localhost-3000-2024-06-26-15_34_28](https://github.com/Georgey764/content-management-system/assets/127057827/4661c7a7-4b48-4939-9e77-f972e8dde119)
-</kbd>
+   <div align="center"><kbd>![screencapture-localhost-3000-2024-06-26-15_34_28](https://github.com/Georgey764/content-management-system/assets/127057827/4661c7a7-4b48-4939-9e77-f972e8dde119)
+   !<img width="500" src="https://github.com/Georgey764/content-management-system/assets/127057827/4661c7a7-4b48-4939-9e77-f972e8dde119"/>
+</kbd></div>
   
 2. Browse Opportunity Page
 
