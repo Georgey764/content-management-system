@@ -41,20 +41,32 @@ _This application cannot be replicated to run locally without proper setup. The 
 <img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/0597d015-61f3-44ec-8c3d-c297278780aa"/>
 </kbd></div>
 
+<br/>
 
 4. Browse Blog Page
 
+<div align="center"><kbd>
+<img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/0597d015-61f3-44ec-8c3d-c297278780aa"/>
+</kbd></div>
 
+<br/>
 
 5. View Blog Page
 
-
+<br/>
 
 6. Add/Edit/Delete Page
 
-
+<br/>
 
 7. Login/Signup Page
+
+<div align="center"><kbd>
+<img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/e3fe8c8c-e719-472b-b8f6-ba358a5a2a85"/>
+<img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/c5ab1e89-3107-4b68-9570-d6d13c3f8b49"/>
+</kbd></div>
+
+<br/>
 
 ## <p id="tech-stack">Tech Stack</p>
 * **Framework:** Next.js
