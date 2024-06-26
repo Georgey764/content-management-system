@@ -17,6 +17,33 @@ _This application cannot be replicated to run locally without proper setup. The 
 
 ## <p id="screenshots">Screenshots</p>
 
+1. Homepage  
+  
+   <kbd>![screencapture-localhost-3000-2024-06-26-15_34_28](https://github.com/Georgey764/content-management-system/assets/127057827/4661c7a7-4b48-4939-9e77-f972e8dde119)
+</kbd>
+  
+2. Browse Opportunity Page
+
+
+
+3. View Opportunity Page
+
+
+
+4. Browse Blog Page
+
+
+
+5. View Blog Page
+
+
+
+6. Add/Edit/Delete Page
+
+
+
+7. Login/Signup Page
+
 ## <p id="tech-stack">Tech Stack</p>
 * **Framework:** Next.js
 * **Backend/Database:** Supabase (PostgreSQL)
