@@ -22,10 +22,10 @@ _This application cannot be replicated to run locally without proper setup. The 
 <div><kbd>
 <img width="500" src="https://github.com/Georgey764/content-management-system/assets/127057827/4661c7a7-4b48-4939-9e77-f972e8dde119"/>
 </kbd><kbd>
-<img width="500" src="[https://github.com/Georgey764/content-management-system/assets/127057827/4661c7a7-4b48-4939-9e77-f972e8dde119](https://github.com/Georgey764/content-management-system/assets/127057827/00861234-16fb-431d-b102-45e277ed0017)"/>
+<img width="500" src="https://github.com/Georgey764/content-management-system/assets/127057827/00861234-16fb-431d-b102-45e277ed0017"/>
 </kbd></div>
 
-  
+
 2. Browse Opportunity Page
 
 
