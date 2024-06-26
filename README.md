@@ -14,10 +14,9 @@
 ## <p id="walkthrough">Walkthrough Video</p>
 
 ## <p id="tech-stack">Tech Stack</p>
-* Next.js
-* Supabase
-* PostgreSQL
-* Markdown
+* **Framework:** Next.js
+* **Backend/Database:** Supabase (PostgreSQL)
+* **Content Display:** Markdown
 
 ## <p id="demo">Demo Account for Admin Access</p>
 
