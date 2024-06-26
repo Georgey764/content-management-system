@@ -19,10 +19,10 @@ _This application cannot be replicated to run locally without proper setup. The 
 
 1. Homepage  
   
-<div><kbd>
-<img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/4661c7a7-4b48-4939-9e77-f972e8dde119"/>
+<div align="center"><kbd>
+<img width="450" src="https://github.com/Georgey764/content-management-system/assets/127057827/4661c7a7-4b48-4939-9e77-f972e8dde119"/>
 </kbd><kbd>
-<img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/00861234-16fb-431d-b102-45e277ed0017"/>
+<img width="450" src="https://github.com/Georgey764/content-management-system/assets/127057827/00861234-16fb-431d-b102-45e277ed0017"/>
 </kbd></div>
 
 
