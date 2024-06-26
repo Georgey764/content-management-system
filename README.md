@@ -28,9 +28,9 @@ _This application cannot be replicated to run locally without proper setup. The 
 2. Browse Opportunity/Blog Page
 
 <div align="center"><kbd>
-<img width="450" src="https://github.com/Georgey764/content-management-system/assets/127057827/ba27367f-d6d1-4604-a57f-0455f5b37e4f"/>
-</kbd><kbd>
 <img width="450" src="https://github.com/Georgey764/content-management-system/assets/127057827/2a961780-eab8-4514-b1fa-883696d32791"/>
+</kbd><kbd>
+<img width="450" src="https://github.com/Georgey764/content-management-system/assets/127057827/ba27367f-d6d1-4604-a57f-0455f5b37e4f"/>
 </kbd></div>
 
 <br/>
