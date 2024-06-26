@@ -5,6 +5,8 @@
 
 **Live Access**: [Click Here](https://content-management-system-roan.vercel.app/)
 
+_**This application cannot be replicated to run locally without proper setup. The purpose of this GitHub is to just showcase the code. If you want help running this code for your own project please contact me. I will help you set up the project.**_
+
 ## Overview
 1. <a href="#walkthrough">Walkthrough Video</a>
 2. <a href="#screenshots">Screenshots</a>
