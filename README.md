@@ -37,6 +37,9 @@ _This application cannot be replicated to run locally without proper setup. The 
 
 3. View Opportunity/Blog Page
 
+<div align="center"><kbd>
+<img width="550" src="https://github.com/Georgey764/content-management-system/assets/127057827/0597d015-61f3-44ec-8c3d-c297278780aa"/>
+</kbd></div>
 
 
 4. Browse Blog Page
