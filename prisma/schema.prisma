@@ -1,0 +1,26 @@
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+  previewFeatures = ["relationJoins"]
+}
+
+model opportunities{
+  id            Int       @id @default(autoincrement())
+  name          String 
+  deadline      String
+  country       String 
+  organization  String 
+  type          type      @relation(fields: [typeId], references: [id])
+  typeId        Int
+}
+
+model type{
+  id            Int             @id @default(autoincrement())
+  opportunities opportunities[]
+  type          String
+}
