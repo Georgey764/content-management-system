@@ -15,6 +15,8 @@ _This application cannot be replicated to run locally without proper setup. The 
 
 ## <p id="walkthrough">Walkthrough Video</p>
 
+![CMS](https://github.com/Georgey764/content-management-system/assets/127057827/40553760-0bd6-4091-af11-06bd770c7b0a)
+
 ## <p id="screenshots">Screenshots</p>
 
 1. Homepage  
