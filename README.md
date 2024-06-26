@@ -14,8 +14,12 @@
 ## <p id="walkthrough">Walkthrough Video</p>
 
 ## <p id="tech-stack">Tech Stack</p>
+* Next.js
+* Supabase
+* PostgreSQL
+* Markdown
 
 ## <p id="demo">Demo Account for Admin Access</p>
 
-    **email:** gregorygregory2021@gmail.com
-    **password:** password!123
+    email: gregorygregory2021@gmail.com
+    password: password!123
