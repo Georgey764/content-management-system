@@ -6,11 +6,16 @@
 **Live Access**: [Click Here](https://content-management-system-roan.vercel.app/)
 
 ## Overview
-1. Walkthrough Video
-2. Screenshots
-3. Demo Account if you want Admin Access _**(To add, delete and edit content)**_
+1. <a href="#walkthrough">Walkthrough Video</a>
+2. <a href="#tech-stack">Tech Stack</a>
+3. <a href="#screenshots">Screenshots</a>
+4. <a href="#demo">Demo Account if you want Admin Access</a> _**(To add, delete and edit content)**_
 
-#### Demo Account for Admin Access
+## <p id="walkthrough">Walkthrough Video</p>
+
+## <p id="tech-stack">Tech Stack</p>
+
+## <p id="demo">Demo Account for Admin Access</p>
 
     gregorygregory2021@gmail.com
     password!123
