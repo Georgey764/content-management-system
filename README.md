@@ -23,14 +23,9 @@ _This application cannot be replicated to run locally without proper setup. The 
 <img width="550" src="https://github.com/Georgey764/content-management-system/assets/127057827/4661c7a7-4b48-4939-9e77-f972e8dde119"/>
 </kbd></div>
 
+<br/>
 
-2. Browse Opportunity Page
-
-<div align="center"><kbd>
-<img width="550" src="https://github.com/Georgey764/content-management-system/assets/127057827/4661c7a7-4b48-4939-9e77-f972e8dde119"/>
-</kbd></div>
-
-3. View Opportunity/Blog Page
+2. Browse Opportunity/Blog Page
 
 <div align="center"><kbd>
 <img width="550" src="https://github.com/Georgey764/content-management-system/assets/127057827/ba27367f-d6d1-4604-a57f-0455f5b37e4f"/>
@@ -38,6 +33,12 @@ _This application cannot be replicated to run locally without proper setup. The 
 <div align="center"><kbd>
 <img width="550" src="https://github.com/Georgey764/content-management-system/assets/127057827/2a961780-eab8-4514-b1fa-883696d32791"/>
 </kbd></div>
+
+<br/>
+
+3. View Opportunity/Blog Page
+
+
 
 4. Browse Blog Page
 
