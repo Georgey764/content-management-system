@@ -20,7 +20,7 @@ _This application cannot be replicated to run locally without proper setup. The 
 1. Homepage  
   
 <div align="center"><kbd>
-<img width="550" src="https://github.com/Georgey764/content-management-system/assets/127057827/4661c7a7-4b48-4939-9e77-f972e8dde119"/>
+<img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/4661c7a7-4b48-4939-9e77-f972e8dde119"/>
 </kbd></div>
 
 <br/>
@@ -38,7 +38,7 @@ _This application cannot be replicated to run locally without proper setup. The 
 3. View Opportunity/Blog Page
 
 <div align="center"><kbd>
-<img width="550" src="https://github.com/Georgey764/content-management-system/assets/127057827/0597d015-61f3-44ec-8c3d-c297278780aa"/>
+<img width="400" src="https://github.com/Georgey764/content-management-system/assets/127057827/0597d015-61f3-44ec-8c3d-c297278780aa"/>
 </kbd></div>
 
 
