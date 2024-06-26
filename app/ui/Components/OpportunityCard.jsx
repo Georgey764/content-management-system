@@ -62,12 +62,12 @@ export default function OpportunityCard({ obj, role, handleDeleteClick }) {
 
         <div className="mb-12 mt-0"></div>
 
-        <p className="w-[60%] font-light absolute top-[calc(100%-33px)] left-4 text-sm flex flex-row">
+        <p className="font-light absolute top-[calc(100%-33px)] left-4 text-sm flex flex-row">
           <span className="font-medium mr-1 text-gray-500">
             <Server className="inline h-4 w-4 mr-1 text-purple-800" />
             Hosted by:{" "}
           </span>{" "}
-          {obj.organization}
+          <span className="w-[85px]">{obj.organization}</span>
         </p>
         <p className="font-light absolute top-[calc(100%-53px)] left-4 text-sm flex flex-row">
           <span className="font-medium mr-2 text-gray-500 text-sm flex flex-row items-center">
