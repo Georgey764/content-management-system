@@ -1,9 +1,6 @@
 # content-management-system
 
-#### Demo Accounts
+#### Demo Account for Admin Access
 
     gregorygregory2021@gmail.com
-    password!123
-
-    khawassamuel@gmail.com
     password!123
