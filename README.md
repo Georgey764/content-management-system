@@ -3,7 +3,9 @@
 > As the name implies it is a fullstack content management system that lets you create blogs and edit them and even delete them. Furthermore, you can also post jobs or other opportunities along with its deadline, type, image, organization name and the opportunity name.  
 >> This website uses Markdown to display its contents.
 
-**Live Access**: [Click Here to view the website](https://content-management-system-roan.vercel.app/)
+**Website Working Example**: This website was made using this code but is propietary so it's github page is hidden: https://www.zaadopportunities.org/ 
+
+**Example Access Some Features Do Not Work Because Supabase required money**: [Click Here to view the website](https://content-management-system-roan.vercel.app/)
 
 _This application cannot be replicated to run locally without proper setup. The purpose of this GitHub is to just showcase the code. If you want help running this code for your own project please contact me. I will help you set up the project._
 
