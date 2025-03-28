@@ -7,16 +7,16 @@ export const metadata = {
 };
 
 const videos = [
-  "https://www.youtube.com/embed/jIlHaHM92S4",
-  "https://www.youtube.com/embed/fDVbjzR1itk",
-  "https://www.youtube.com/embed/ywqBWbFSjgg",
-  "https://www.youtube.com/embed/pJbFH8psJfI",
-  "https://www.youtube.com/embed/XGzRqbUCKCU",
-  "https://www.youtube.com/embed/lplUbzWpqaY",
-  "https://www.youtube.com/embed/NLuuoI0tznE",
-  "https://www.youtube.com/embed/bL2U1Vzc4Bs",
-  "https://www.youtube.com/embed/LFEE-edhoAI",
-  "https://www.youtube.com/embed/4YmRn7nB3TE",
+  "https://www.youtube.com/embed/yP0WbXjtznc",
+  "https://www.youtube.com/embed/yK_YBNBlo5w",
+  "https://www.youtube.com/embed/oCfQ0LzxP5M",
+  "https://www.youtube.com/embed/3K2aK4HXKEo",
+  "https://www.youtube.com/embed/fCXBsFUxsoU",
+  "https://www.youtube.com/embed/NltFUyVkPKg",
+  "https://www.youtube.com/embed/lhfZdU3Hz1A",
+  "https://www.youtube.com/embed/ncMnMH5Uovg",
+  "https://www.youtube.com/embed/L9J6jSXsFK8",
+  "https://www.youtube.com/embed/ZNOJ1RSJa4c",
 ];
 
 export default function Training({ searchParams }) {
@@ -54,7 +54,7 @@ export default function Training({ searchParams }) {
       <div className="flex flex-row items-center justify-center p-4">
         <iframe
           className="rounded w-[80vw] lg:w-[55vw] aspect-video"
-          src="https://www.youtube.com/embed/jIlHaHM92S4"
+          src="https://www.youtube.com/embed/RUUAMLAU0qk"
           title="My Response To MrBeast"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowFullScreen
