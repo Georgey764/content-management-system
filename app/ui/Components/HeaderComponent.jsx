@@ -103,6 +103,12 @@ export default function HeaderComponent() {
               <span>Blog</span>
             </DropdownMenuItem>
           </Link>
+          <Link href="/training">
+            <DropdownMenuItem>
+              <Handshake className="mr-2 h-4 w-4" />
+              <span>Training</span>
+            </DropdownMenuItem>
+          </Link>
           <DropdownMenuSeparator />
 
           {value.session ? (
@@ -205,6 +211,18 @@ export default function HeaderComponent() {
                     <BreadcrumbPage name="/blog">Blog</BreadcrumbPage>
                   ) : (
                     <span name="/blog">Blog</span>
+                  )}
+                </Link>
+              </BreadcrumbLink>
+            </BreadcrumbItem>
+            <BreadcrumbSeparator />
+            <BreadcrumbItem>
+              <BreadcrumbLink asChild>
+                <Link href="/training">
+                  {active === "/training" ? (
+                    <BreadcrumbPage name="/training">Training</BreadcrumbPage>
+                  ) : (
+                    <span name="/training">Training</span>
                   )}
                 </Link>
               </BreadcrumbLink>

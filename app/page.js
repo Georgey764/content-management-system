@@ -11,7 +11,8 @@ import {
 } from "lucide-react";
 import Image from "next/image";
 import Modals from "./ui/Components/Modals";
-import BlogSection from "./(Helper)/BlogSection";
+import BlogSection from "./(Helper)/(Main Page Helper)/BlogSection";
+import TrainingHelper from "./(Helper)/(Main Page Helper)/TrainingHelper";
 
 export const metadata = {
   title: "CMS",
@@ -140,6 +141,9 @@ export default async function Home({ searchParams }) {
           </div>
         </div>
       </section>
+
+      <TrainingHelper />
+
       <BlogSection />
       {/* <section className="bg-gray-50 w-screen">
           <div className="p-8 md:p-12 lg:px-16 lg:py-24">

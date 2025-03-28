@@ -21,7 +21,7 @@ export default async function BlogContentPage({ params }) {
   return (
     <>
       {data[0] ? (
-        <section className="w-100 min-h-screen flex flex-col items-center justify-start">
+        <section className="w-100 min-h-screen flex flex-col items-center justify-start px-12 pb-12">
           <div className="px-2 pt-28 pb-8 w-screen md:px-20 md:pt-28 text-center">
             <p className="text-4xl mb-4">{name}</p>
             <div className="flex flex-row justify-center items-center gap-2">
